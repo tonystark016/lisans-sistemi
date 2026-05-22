@@ -1,14 +1,14 @@
 {
   "AracPanel": {
-    "5.10.220.150": "tonystark.exe",
-    "50.114.185.54": "Soulless"
+    "5.10.220.150": true
   },
   "EvSistemi": {
-    "5.10.220.150": "tonystark.exe",
-    "50.114.185.54": "Soulless"
+    "5.10.220.150": true
   },
   "PremiumPanel": {
-    "5.10.220.150": "tonystark.exe",
-    "50.114.185.54": "Soulless"
+    "5.10.220.150": true
+  },
+  "EventSistemi": {
+    "5.10.220.15": true
   }
 }
